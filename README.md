@@ -1,5 +1,6 @@
-<div style="display:flex;">
-  <h3>I make <b style="color: red;">random</b> programs</h3> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnthedev&show_icons=true&locale=en&layout=compact&theme=dark" alt="Gift's language" height="192px"  width="500px"/>
+<h1 align="center">hnthedev🎴</h1>
+
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnthedev&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
